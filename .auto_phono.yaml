@@ -1,0 +1,2 @@
+VASP_PSP_DIR: /public/home/fanchunpku/qinchuan/pot/vasp_pot/my_psp_pbe
+POTCAR_MAPPING: /public/home/fanchunpku/qinchuan/project/ABO/check/auto_pho/potcar.yaml
